@@ -1,4 +1,4 @@
-# Assistant UI Svelte Project 2025
+# Assistant UI Svelte Project
 
 ## Project Overview
 
